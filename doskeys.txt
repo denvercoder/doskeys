@@ -6,13 +6,10 @@ DOSKEY gp=git push
 DOSKEY ls=dir
 DOSKEY clear=cls
 DOSKEY sudo=echo This Isn't Really Unix Dummy
-DOSKEY community=cd C:\DL\repos\sites\communitylive2
-DOSKEY business=cd C:\DL\repos\projects\clbusiness2
 DOSKEY system=cd C:\Windows\System32
-DOSKEY portfolio=cd C:\Users\Cii-Dev-PC\WebstormProjects\portfolio
-DOSKEY home=cd C:\Users\Cii-Dev-PC
-DOSKEY app=cd C:\Users\Cii-Dev-PC\Documents\residentappxamarin
+DOSKEY home=cd C:\Users\tmyers
 DOSKEY flow=git flow init -fd
+DOSKEY hosts=code C:\Windows\System32\drivers\etc\hosts
 DOSKEY root=cd /
 cd /
 
