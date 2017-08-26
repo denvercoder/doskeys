@@ -1,6 +1,11 @@
 # UNIX DOSKEYS for Winows
 For those Unix/Linux peeps that have to spend 8 hours on a Windows PC :P
 
+## Purpose
+I used to hate switching to windows command prompt syntax from unix syntax. 
+I would get to work and start up a cmd prompt and start typing ls, ll, etc. 
+So I decided to find a way to setup aliases like I have in terminal on my Mac.
+
 ## Installation Instructions
 1.  Clone the repo and rename doskeys.txt to doskeys.cmd...Security. 
 2.  Create a shortcut to an admin command prompt and put it anywhere you wish.
