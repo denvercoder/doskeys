@@ -1,7 +1,7 @@
 # UNIX DOSKEYS for Winows
 For those Unix/Linux peeps that have to spend 8 hours on a Windows PC :P
 
-##Installation Instructions
+## Installation Instructions
 1.  Clone the repo and rename doskeys.txt to doskeys.cmd...Security. 
 2.  Create a shortcut to an admin command prompt and put it anywhere you wish.
 3.  Right click on the shortcut and click on Properties
@@ -18,5 +18,5 @@ For those Unix/Linux peeps that have to spend 8 hours on a Windows PC :P
 7.  Add any macros or shortcuts you wish. My file is just there for example purposes.
 
 
-#THANKS
+# THANKS
 
