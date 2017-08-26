@@ -11,7 +11,7 @@ For those Unix/Linux peeps that have to spend 8 hours on a Windows PC :P
     
     just add this to the end of the line so it looks like this:
 
-    *%windir%\system32\cmd.exe -K doskeys.cmd*
+    *%windir%\system32\cmd.exe /K doskeys.cmd*
 
 5.  Now just move the doskeys.cmd file into your Windows\System32 folder.
 6.  You will have to close your command prompt and then reopen it using the shortcut.
